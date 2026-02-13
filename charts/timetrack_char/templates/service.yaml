@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: timetrack-service
+  name: {{ .Release.Name }}-service
   labels:
     {{- include "timetrack.labels" . | nindent 4 }}
 spec:
