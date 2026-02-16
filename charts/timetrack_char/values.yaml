@@ -13,7 +13,7 @@ db:
   user: "admin"
   name: "txmtimetrack"
   # La password la pasaremos por comando o la hardcodeamos aquí si prefieres
-  password: "xI%2AKP%211%5BJn%29bu%3FZIjqUC~Zr3hNEm"
+  password: "iMBx1Wg2T%3C4-ye9c%23o%3E%28WQph%24%28AG"
 
 #env:
 #  DATABASE_URL: 'mysql://admin:7WD%21ffZNT%23H52fvRZN_U9T%21X%3EPVj@txm-dev-db.ca76qu0mc5rh.us-east-1.rds.amazonaws.com:3306/timetrack'
